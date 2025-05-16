@@ -329,11 +329,7 @@ justify-content: space-between;
     text-transform: uppercase;
     font-weight: 600;
     margin-bottom: 15px;
-}
 
-.map {
-    filter: grayscale(100%) invert(92%) contrast(93%);
-}
 
 .footer {
     padding: 100px 0px;
